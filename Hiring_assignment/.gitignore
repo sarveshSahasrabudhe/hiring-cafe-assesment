@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Project
+output/
+# input/avature_sites_raw.txt # Uncomment if you want to ignore the large raw file (76MB)
+
