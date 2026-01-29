@@ -1,0 +1,21 @@
+{
+  "seed_mode": "clean",
+  "format": "json",
+  "dedup_mode": "base",
+  "total_lines_loaded": 85,
+  "garbage_ignored": 18,
+  "deduped": 0,
+  "final_seeds_tried": 66,
+  "sites_ok_with_jobs": 24,
+  "sites_failed_or_empty": 20,
+  "total_jobs": 219,
+  "jobs_new_this_run": 219,
+  "dup_local_skipped": 285,
+  "jobs_file": "/Users/sarveshsahasrabudhe/Downloads/HiringCafe_01/Hiring_assignment/output/jobs.json",
+  "finished_at_utc": "2026-01-29T22:36:16.331033+00:00",
+  "notes": {
+    "cap_jobs_per_seed": 2000,
+    "max_pages_per_seed": 120,
+    "jobRecordsPerPage_try": 100
+  }
+}
